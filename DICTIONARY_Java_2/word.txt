@@ -1,0 +1,5 @@
+hello	xin chao	v
+hello	xin chao	v
+go	di	v
+you	ban	N
+dog 	con cho	n
